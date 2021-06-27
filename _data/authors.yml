@@ -1,0 +1,17 @@
+Pierluigi Vito Amadori:
+  name        : "Pierluigi Vito Amadori"
+  bio         : "AI Scientist"
+  avatar      : "/assets/images/pier.jpeg"
+  links:
+    - label: "Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=en&user=apwjxDYAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pierluigi-vito-amadori/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/PVAmadori"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Pierluigi-Vito-Amadori"
