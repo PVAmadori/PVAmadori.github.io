@@ -1,24 +1,5 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<div class="page__footer-follow">
+          Follow me on <li><a href="https://twitter.com/PVAmadori" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fab fa-twitter' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+</div>
 
-  <div class="wrapper">
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-
-  </div>
-
-</footer>
+<div class="page__footer-copyright">Copyright &copy; {{ site.time | date: '%Y' }}  Pierluigi Vito Amadori. <br> {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,<a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow"> Minimal Mistakes</a> and espresso.</div>

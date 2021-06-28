@@ -1,12 +1,13 @@
 ---
 layout: single
+classes: wide
 title: Bio
 permalink: /about/
 author_profile: true
 author: Pierluigi Vito Amadori
 ---
 
-I am a Research Associate at the Personal Robotics Lab (PRL), Imperial College London, UK. I am part of the MURI grant on “Closed-Loop Multisensory Brain-Computer Interfaces for Enhanced Decision Accuracy”.
+I am a Research Associate at the Personal Robotics Lab (PRL), Imperial College London, UK. I am part of the Senior Research Officer on the project “Closed-Loop Multisensory Brain-Computer Interfaces for Enhanced Decision Accuracy”.
 
 I received my Ph.D. Degree in Electronic Engineering from University College London (UCL) in April 2017 with the Thesis topic: “Energy Efficient Large Scale Antenna Systems for 5G Communications and Beyond”. At UCL, my research focused on Multiple-Input Multiple-Output (MIMO) wireless communication systems and signal processing techniques, with special emphasis on large-scale antenna array systems and algorithms for energy efficient communications.
 

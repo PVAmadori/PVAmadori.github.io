@@ -1,10 +1,10 @@
-
-
 main:
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
+  - title: "Career"
+    url: /career/
+  - title: "Publications"
+    url: /publications/
   - title: "Research"
     url: /research/
   - title: "Videos"
