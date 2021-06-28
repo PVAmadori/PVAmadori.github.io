@@ -17,7 +17,7 @@ Design of novel data-driven and model-based machine learning algorithms to impro
 * Design of task-aware visual attention model to predict human focus attention.
 {: .notice--primary}
 
-#### Feb 2007 - Aug 2017	Postdoctoral Industrial Intern, Cobham Wireless, Stevenage, UK.
+#### Feb 2017 - Aug 2017	Postdoctoral Industrial Intern, Cobham Wireless, Stevenage, UK.
 
 Investigation and development of 5G technologies from concept up to prototype level.
 >
