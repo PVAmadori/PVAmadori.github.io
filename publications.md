@@ -26,7 +26,7 @@ For up-to-date publications, please see my [Google Scholar](https://scholar.goog
 
 
 ## Conference Publications
-2020. **Amadori, P.V.**, Fischer, T., Wang, R. and Demiris, Y., "Decision Anticipation for Driving Assistance Systems." *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)*.\
+2020. **Amadori, P.V.**, Fischer, T., Wang, R. and Demiris, Y., "Decision Anticipation for Driving Assistance Systems." *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)*.
 [Open Access](https://www.researchgate.net/publication/342200584_Decision_Anticipation_for_Driving_Assistance_Systems){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/document/9294216){: .btn .btn--inverse}
 
 2019.	Wang, R., Ciliberto, C., **Amadori, P.V.**, and Demiris, Y., “Support-guided Adversarial Imitation Learning”, *2019 NeurIPS LIRE Workshop*.
