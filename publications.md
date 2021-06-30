@@ -31,9 +31,17 @@ For up-to-date publications, please see my [Google Scholar](https://scholar.goog
 
 2019.	Wang, R., Ciliberto, C., **Amadori, P.V.**, and Demiris, Y., “Support-guided Adversarial Imitation Learning”, *2019 NeurIPS LIRE Workshop*.
 2019.	Wang, R., Ciliberto, C.,**Amadori, P.V.**, and Demiris, Y., “Random expert distillation: Imitation learning via expert policy support estimation.”  *2019 International Conference on Machine Learning (ICML)* (pp. 6536-6544).
+[Open Access](https://arxiv.org/abs/1905.06750){: .btn .btn--success}
 2018.	Wang, R., **Amadori, P.V.**, and Demiris, Y., “Real-time workload classification during driving using hypernetworks.”, *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* (pp. 3060-3065).
+[Open Access](https://arxiv.org/abs/1810.03145){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/document/8594305){: .btn .btn--inverse}
 2018.	**Amadori, P.V.**, and Masouros, C. “A mixed-integer programming approach to interference exploitation for massive-MIMO.” *2018 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)* Barcelona, (pp. 107-112).
+[Open Access](https://discovery.ucl.ac.uk/id/eprint/10059091/){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/document/8368973){: .btn .btn--inverse}
+
 2016.	**Amadori, P.V.**, and Masouros, C. "Constructive Interference Based Constant Envelope Precoding", *2016 IEEE International workshop on Signal Processing  advances in Wireless Communications (SPAWC)*, Edinburgh.
+[Open Access](https://discovery.ucl.ac.uk/id/eprint/1517274/){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/document/7536765){: .btn .btn--inverse}
 2015.	**Amadori, P.V.**, and Masouros, C. "Power efficient massive MU-MIMO via antenna selection for constructive interference optimization," *2015 IEEE International Conference on Communications (ICC)*, London, (pp. 1607-1612).
+[Open Access](https://discovery.ucl.ac.uk/id/eprint/1517274/){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/document/7248554){: .btn .btn--inverse}
 2015.	**Amadori, P.V.**, and Masouros, C., "Beam selection techniques in mm-wave communications," *2015 IET Colloquium on Antennas, Wireless and Electromagnetics*, Birmingham, (pp. 1-20)
+[Publisher](https://ieeexplore.ieee.org/document/7384396){: .btn .btn--inverse}
 2014.	**Amadori, P.V.**, and Masouros, C. "Low complexity transceivers in multiuser millimeter-wave beamspace-MIMO systems," *2014 IEEE 25th Annual International Symposium on Personal, Indoor, and Mobile Radio Communication (PIMRC)*, Washington DC, (pp. 118-122).
+[Publisher](https://ieeexplore.ieee.org/document/7136144){: .btn .btn--inverse}
