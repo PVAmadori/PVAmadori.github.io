@@ -15,3 +15,6 @@ Pierluigi Vito Amadori:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Pierluigi-Vito-Amadori"
+    - label: "Imperial College"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.imperial.ac.uk/people/p.amadori"
