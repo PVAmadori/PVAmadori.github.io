@@ -9,7 +9,8 @@ author: Pierluigi Vito Amadori
 For up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=apwjxDYAAAAJ) profile.
 
 ## Journal Publications
-1.	**Amadori, P.V.**, Fischer, T., Wang, R. and Demiris, Y., “Predicting Secondary Task Performance: A Directly Actionable Metric for Cognitive Overload Detection”. *IEEE Transactions on Cognitive and Developmental Systems*, 2021. \ [Open Access](https://www.researchgate.net/publication/354748028_Predicting_Secondary_Task_Performance_A_Directly_Actionable_Metric_for_Cognitive_Overload_Detection){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/abstract/document/9542977){: .btn .btn--inverse}
+1.	**Amadori, P.V.**, Fischer, T., Wang, R. and Demiris, Y., “Predicting Secondary Task Performance: A Directly Actionable Metric for Cognitive Overload Detection”. *IEEE Transactions on Cognitive and Developmental Systems*, 2021. \ 
+[Open Access](https://www.researchgate.net/publication/354748028_Predicting_Secondary_Task_Performance_A_Directly_Actionable_Metric_for_Cognitive_Overload_Detection){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/abstract/document/9542977){: .btn .btn--inverse}
 2.	**Amadori, P.V.**, Fischer, T. and Demiris, Y., “HammerDrive: A Task-Aware Driving Visual Attention Model”. *IEEE Transactions on Intelligent Transportation Systems*, 2021. \
 [Open Access](https://www.researchgate.net/publication/349179312_HammerDrive_A_Task-Aware_Driving_Visual_Attention_Model){: .btn .btn--success} [Publisher](https://ieeexplore.ieee.org/abstract/document/9351808){: .btn .btn--inverse}
 3.	Liu, F., Masouros, C., **Amadori, P.V.** and Sun, H., "An Efficient Manifold Algorithm for Constructive Interference Based Constant Envelope Precoding", *IEEE Signal Processing Letters*, vol. 24, no. 10, pp. 1542-1546, Oct. 2017. \
