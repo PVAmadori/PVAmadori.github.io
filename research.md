@@ -25,21 +25,25 @@ The proposed architecture is a novel implementation of task-aware visual attenti
 Our results showed that visual attention prediction from a module trained on a task always performs better at predicting the visual attention of a driver when the driver is performing such a task. I have also evaluated and compared the proposed architecture against state-of-the-art visual attention modelling from the literature and proven that task-awareness is greatly beneficial for human attention prediction on numerous metrics (see figure above).
 
 
-## Seq2Seq - Task-Aware Visual Attention Prediction
+## Seq2Seq/DecNet - Cognitive Overload Detection via Decision Anticipation
 
-In this work, i investigated the underlying cognitive processes that characterise human decision-making. 
+In this work, I developed two end-to-end networks to detect cognitive overload events in human via decision anticipation. The main assumption in this framework is that decision mistakes on the cognitive secondary task of dual-tasking users correspond to cognitive overload events. Cognitive overload events are instances wherein the cognitive resources
+required to perform the task exceed the ones available to the users.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Picture4.png){: .align-left}
+The architectures build on two core concepts:
 
-To achieve this, I designed Seq2Seq (see figure left), a novel end-to-end architecture based on Long Short-Term Memory (LSTM) that uses eye gaze and head pose information to infer the likelihood of an incoming mistake from a human.
-
-The main goal of Seq2Seq is to answer a direct research question: can we design an architecture that can anticipate whether a human's next decision will be correct or wrong?
-
-The architecture leverages on two core concepts:
 1. sequential models can model human decision-making processes with high accuracy;
 2. sequence-to-sequence learning paradigm greatly improves training stability in the model, which directly translates to better inference performance.
 
-Our results show that the Seq2Seq can reliably anticipate the correctness of incoming decisions, up to 2 seconds in advance, and that its formulation allows for real-time inference and direct closed-loop implementation.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Picture3.png){: width="400" .align-left}
+
+I designed Seq2Seq and DecNet (see figure left), two novel end-to-end architectures based on Long Short-Term Memory (LSTM) and Recurrent Neural Networks (RNN) that use eye gaze and head pose information to infer the likelihood of an incoming mistake from a human. DecNet is designed as a two-stage end-to-end sequential model that jointly learns to extract the most relevant features via an RNN module and to exploit them via an LSTM network in order to infer cognitive overload events by anticipating the correctness likelihood of an imminent decision. In other words, the hidden states of the RNN are used as input to the LSTM module (see figure below).
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Picture4.png){: width="400"  .align-left}
+
+The main goal of DecNet is to answer a direct research question: can we design an architecture that can anticipate cognitive overload events in humans by predicting whether a their next decision will be correct or wrong?
+
+Our results show that the DecNet can reliably anticipate the correctness of incoming decisions, up to 2 seconds in advance, and that its formulation allows for real-time inference and direct closed-loop implementation.
 
 
 ## 5G MIMO Communications - Techniques for Energy-Efficient Communications
