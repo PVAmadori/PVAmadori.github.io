@@ -7,8 +7,20 @@ author_profile: true
 author: Pierluigi Vito Amadori
 ---
 
-#### 2017-present	Postdoctoral Research Associate, Imperial College, London, UK.
+#### April 2022 - Present	Senior Machine Learning Engineer, PlayStation, Sony Interactive Entertainment Europe, London, UK.
 
+{: .notice--primary}
+
+
+#### Nov 2021 - March 2022	Teaching Fellow, Imperial College, London, UK.
+
+Courses: 
+>
+* Machine Learning.
+* Applied Machine Learning.
+{: .notice--primary}
+
+#### Sept 2017 - Nov 2021	Postdoctoral Research Associate, Imperial College, London, UK.
 
 Design of novel data-driven and model-based machine learning algorithms to improve human decision-making accuracy from physiological and behavioural signals. 
 >
