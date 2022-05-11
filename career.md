@@ -8,7 +8,6 @@ author: Pierluigi Vito Amadori
 ---
 
 #### April 2022 - Present	Senior Machine Learning Engineer, PlayStation, Sony Interactive Entertainment Europe, London, UK.
-{: .notice--primary}
 
 
 #### Nov 2021 - March 2022	Teaching Fellow, Imperial College, London, UK.
