@@ -10,7 +10,7 @@ author: Pierluigi Vito Amadori
 #### April 2022 - Present	Senior Machine Learning Engineer, PlayStation, Sony Interactive Entertainment Europe, London, UK.
 
 
-#### Nov 2021 - March 2022	Teaching Fellow, Imperial College, London, UK.
+#### Dec 2021 - March 2022	Teaching Fellow, Imperial College, London, UK.
 
 Courses: 
 >
@@ -37,7 +37,7 @@ Investigation and development of 5G technologies from concept up to prototype le
 {: .notice--primary}
 
 
-#### Mar 2013 - Jan2017	PhD candidate, University College London (UCL), London, UK.
+#### Mar 2013 - Jan 2017	PhD candidate, University College London (UCL), London, UK.
 
 Development of downlink signal processing techniques to improve power efficiency of multiuser Massive-MIMO Systems for future 5G deployments.
 >
